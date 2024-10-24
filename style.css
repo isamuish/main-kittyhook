@@ -1,10 +1,7 @@
 .container {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
     align-items: center;
     height: 100vh;
-    background: url('../icons/bg.png') no-repeat center center/cover ;
+    background: url('m') no-repeat center center/cover ;
     text-align: center;
 }
 body {
