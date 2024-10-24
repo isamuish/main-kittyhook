@@ -1,7 +1,8 @@
 .container {
     align-items: center;
+    text-decoration-color: white;
     height: 100vh;
-    background: url('m') no-repeat center center/cover ;
+    background: color(#000000) ;
     text-align: center;
 }
 body {
