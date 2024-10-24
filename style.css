@@ -7,3 +7,7 @@
     background: url('../icons/bg.png') no-repeat center center/cover ;
     text-align: center;
 }
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+  }
